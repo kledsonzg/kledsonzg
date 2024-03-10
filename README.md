@@ -15,6 +15,7 @@ Meu nome é <b>Kledson</b>, tenho 21 anos e estou à procura de uma oportunidade
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff64&color:FFF)](https://www.linkedin.com/in/kledson-dias-1b9099213/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00ff64&color:FFF)](https://www.instagram.com/kzgdias/)
 
-![Top Langs](https://github-readme-stats-ajvkx9hck-kledsonzgs-projects.vercel.app/api/top-langs/?username=kledsonzg&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kledsonzg&layout=compact&bg_color=000&title_color=fff&text_color=fff&border_color=36123c&icon_color=00ff64&theme=jolly)
+
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kledsonzg&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00ff64&text_color=FFF&border_radius=3&border_color=36123c&icon_color=00ff64&theme=jolly)
