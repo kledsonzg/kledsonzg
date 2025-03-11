@@ -13,7 +13,7 @@ Meu nome é <b>Kledson</b>, tenho 22 anos e estou à procura de uma oportunidade
 <div align="center">
     <h2>Resumo:</h2>
     <div width="100%">
-        <a href="https://www.codewars.com/users/kledsonzg">
+        <a href="https://www.codewars.com/users/kledsonzg/completed_solutions">
             <img src="https://www.codewars.com/users/kledsonzg/badges/large" alt="CodeWars">
         </a>
     </div>
